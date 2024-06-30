@@ -1,0 +1,6 @@
+openai
+PyMuPDF
+requests
+faiss-cpu
+numpy
+python-dotenv

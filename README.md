@@ -15,7 +15,7 @@ This project is designed to automatically generate answers from a PDF document a
 
 1. Clone the repository:
 
-    `git clone <repository-url>`
+    `git clone https://github.com/sidharthancr/pdf-rag-slack`
 
 2. Install the required Python packages:
 
